@@ -1,0 +1,25 @@
+C:\Users\smd113\Documents\Visual Studio 2008\Projects\iRisMobile\NetCfLibrary\bin\Debug\NetCfLibrary.dll
+C:\Users\smd113\Documents\Visual Studio 2008\Projects\iRisMobile\NetCfLibrary\bin\Debug\NetCfLibrary.pdb
+C:\Users\smd113\Documents\Visual Studio 2008\Projects\iRisMobile\NetCfLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\smd113\Documents\Visual Studio 2008\Projects\iRisMobile\NetCfLibrary\obj\Debug\NetCfLibrary.dll
+C:\Users\smd113\Documents\Visual Studio 2008\Projects\iRisMobile\NetCfLibrary\obj\Debug\NetCfLibrary.pdb
+C:\Users\smd113\Documents\Visual Studio 2008\Projects\HTIPackageAllocation\NetCfLibrary\bin\Debug\NetCfLibrary.dll
+C:\Users\smd113\Documents\Visual Studio 2008\Projects\HTIPackageAllocation\NetCfLibrary\bin\Debug\NetCfLibrary.pdb
+C:\Users\smd113\Documents\Visual Studio 2008\Projects\HTIPackageAllocation\NetCfLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\smd113\Documents\Visual Studio 2008\Projects\HTIPackageAllocation\NetCfLibrary\obj\Debug\NetCfLibrary.dll
+C:\Users\smd113\Documents\Visual Studio 2008\Projects\HTIPackageAllocation\NetCfLibrary\obj\Debug\NetCfLibrary.pdb
+C:\Users\smd216\Downloads\C#Essentials\HTIPackageAllocation\NetCfLibrary\bin\Debug\NetCfLibrary.dll
+C:\Users\smd216\Downloads\C#Essentials\HTIPackageAllocation\NetCfLibrary\bin\Debug\NetCfLibrary.pdb
+C:\Users\smd216\Downloads\C#Essentials\HTIPackageAllocation\NetCfLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\smd216\Downloads\C#Essentials\HTIPackageAllocation\NetCfLibrary\obj\Debug\NetCfLibrary.dll
+C:\Users\smd216\Downloads\C#Essentials\HTIPackageAllocation\NetCfLibrary\obj\Debug\NetCfLibrary.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\C#Essentials\HTIPackageAllocation\NetCfLibrary\bin\Debug\NetCfLibrary.dll
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\C#Essentials\HTIPackageAllocation\NetCfLibrary\bin\Debug\NetCfLibrary.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\C#Essentials\HTIPackageAllocation\NetCfLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\C#Essentials\HTIPackageAllocation\NetCfLibrary\obj\Debug\NetCfLibrary.dll
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\C#Essentials\HTIPackageAllocation\NetCfLibrary\obj\Debug\NetCfLibrary.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\NetCfLibrary\bin\Debug\NetCfLibrary.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\NetCfLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\NetCfLibrary\obj\Debug\NetCfLibrary.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\NetCfLibrary\obj\Debug\NetCfLibrary.dll
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\PackageControl\NetCfLibrary\bin\Debug\NetCfLibrary.dll

@@ -1,0 +1,10 @@
+C:\Users\smd216\Downloads\C#Essentials\HTIPackageAllocation\NetCfLibrary\bin\Release\NetCfLibrary.dll
+C:\Users\smd216\Downloads\C#Essentials\HTIPackageAllocation\NetCfLibrary\bin\Release\NetCfLibrary.pdb
+C:\Users\smd216\Downloads\C#Essentials\HTIPackageAllocation\NetCfLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\smd216\Downloads\C#Essentials\HTIPackageAllocation\NetCfLibrary\obj\Release\NetCfLibrary.dll
+C:\Users\smd216\Downloads\C#Essentials\HTIPackageAllocation\NetCfLibrary\obj\Release\NetCfLibrary.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\C#Essentials\HTIPackageAllocation\NetCfLibrary\bin\Release\NetCfLibrary.dll
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\C#Essentials\HTIPackageAllocation\NetCfLibrary\bin\Release\NetCfLibrary.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\C#Essentials\HTIPackageAllocation\NetCfLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\C#Essentials\HTIPackageAllocation\NetCfLibrary\obj\Release\NetCfLibrary.dll
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\C#Essentials\HTIPackageAllocation\NetCfLibrary\obj\Release\NetCfLibrary.pdb

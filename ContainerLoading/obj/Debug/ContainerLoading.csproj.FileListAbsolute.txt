@@ -1,0 +1,13 @@
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\ContainerLoading\ContainerLoading\bin\Debug\ContainerLoading.exe
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\ContainerLoading\ContainerLoading\bin\Debug\ContainerLoading.pdb
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\ContainerLoading\ContainerLoading\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\ContainerLoading\ContainerLoading\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\ContainerLoading\ContainerLoading\obj\Debug\ContainerLoading.Checkers.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\ContainerLoading\ContainerLoading\obj\Debug\ContainerLoading.Designation.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\ContainerLoading\ContainerLoading\obj\Debug\ContainerLoading.Legends.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\ContainerLoading\ContainerLoading\obj\Debug\ContainerLoading.Main.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\ContainerLoading\ContainerLoading\obj\Debug\ContainerLoading.Properties.Resources.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\ContainerLoading\ContainerLoading\obj\Debug\ContainerLoading.ScanBarcode.resources
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\ContainerLoading\ContainerLoading\obj\Debug\ContainerLoading.csproj.GenerateResource.Cache
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\ContainerLoading\ContainerLoading\obj\Debug\ContainerLoading.exe
+C:\Users\smd239\Desktop\SYSTEMS\C#Projects\ContainerLoading\ContainerLoading\obj\Debug\ContainerLoading.pdb
